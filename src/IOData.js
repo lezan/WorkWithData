@@ -8,7 +8,7 @@ module.exports = {
 	},
 
 	readJson: (filename) => {
-		const importData = fs.readFileSync(`..data/${filename}.json`);
+		const importData = fs.readFileSync(`../data/${filename}.json`);
 		const data = JSON.parse(importData);
 
 		return data;
