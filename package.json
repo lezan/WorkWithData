@@ -1,0 +1,23 @@
+{
+  "name": "workwithdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "workWithData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lezan/WorkWithData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lezan/WorkWithData/issues"
+  },
+  "homepage": "https://github.com/lezan/WorkWithData#readme",
+  "dependencies": {
+    "neat-csv": "^5.2.0",
+    "objects-to-csv": "^1.3.6"
+  }
+}
